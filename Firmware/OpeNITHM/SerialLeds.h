@@ -6,6 +6,7 @@
 #else
 #include "WProgram.h"
 #endif
+#include "Config.h"
 
 #include <EEPROM.h>
 #include <FastLED.h>
@@ -33,6 +34,9 @@ class SerialLeds
     void loadLights();
     void processBulk(uint8_t *buf);
     RGBLed getKey(uint8_t key); // Left to Right
+#ifdef KEY_DIVIDERS
+    RGBLed getDivider(uint8_t divider); // Left to Right
+#endif
 
     union {
       RGBLed rgb[32];

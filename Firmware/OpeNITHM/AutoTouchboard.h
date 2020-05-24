@@ -12,12 +12,15 @@
 #include <EEPROM.h>
 #include <FastLED.h>
 
-#define CALIBRATION_SAMPLES 25
 #define CALIBRATION_DETECTION_THRESHOLD 55
 #define CALIBRATION_FLAG 0xFF
 #define DEFAULT_SENSITIVITY 76
 
+#ifndef KEY_DIVIDERS
 extern CRGB leds[16];
+#else
+extern CRGB leds[31];
+#endif
 
 class AutoTouchboard
 {
