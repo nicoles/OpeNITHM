@@ -4,7 +4,7 @@ This repository contails files related to the second generation, laser cut case.
 
 ## Fasteners
 
-| Part | Link |                                                                 | Qty |
+| Part | Link                                    | Qty |
 | --- | --- | :---:|
 | 25mm M3 Female-Female round standoffs | [1] |                                      | 10  |
 | 10 or 11mm M3 hex standoffs      ||                                          | 8   |
