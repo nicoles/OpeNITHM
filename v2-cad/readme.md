@@ -6,16 +6,16 @@ This repository contails files related to the second generation, laser cut case.
 
 | Part | Link                                    | Qty |
 | --- | --- | :---:|
-| 25mm M3 Female-Female round standoffs | [1] |                                      | 10  |
-| 10 or 11mm M3 hex standoffs      ||                                          | 8   |
-| 20mm M5 screw      ||      | 4 |
-| M5 hex nuts    ||    | 4 |
+| 25mm M3 Female-Female round standoffs | [1]                                     | 10  |
+| 10 or 11mm M3 hex standoffs      |                                          | 8   |
+| 20mm M5 screw      |      | 4 |
+| M5 hex nuts    |    | 4 |
 | 8mm M3 Black-Oxide Alloy Steel Hex Drive Flat Head Screw | [2] | 18 |
 | 8mm M3 18-8 Stainless Steel Hex Drive Flat Head Screw | [3] | 8 |
 | 8mm M3 316 Stainless Steel Button Head Hex Drive Screws | [4] | 14 |
-| M2.5 hex nuts |||2|
-| 22mm M2.5 screw |||2|
-| Copper Tape, cut into rectangles 95mm x 26mm     ||                          | 16  |
+| M2.5 hex nuts ||2|
+| 22mm M2.5 screw ||2|
+| Copper Tape, cut into rectangles 95mm x 26mm     |                          | 16  |
 
 
 [1]: https://www.amazon.com/HobbyPark-Aluminum-M3x25mm-Standoff-Female-Female/dp/B071K6GJYG/
