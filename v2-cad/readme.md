@@ -6,7 +6,7 @@ This repository contails files related to the second generation, laser cut case.
 
 | Part | Link                                    | Qty |
 | --- | --- | :---:|
-| 25mm M3 Female-Female round standoffs | [Amazon][1]                                     | 10  |
+| 25mm M3 Female-Female hex standoffs | [McMaster][1]                                     | 10  |
 | 10 or 11mm M3 hex standoffs      |                                          | 8   |
 | 20mm M5 screw      |      | 4 |
 | M5 hex nuts    |    | 4 |
@@ -14,11 +14,11 @@ This repository contails files related to the second generation, laser cut case.
 | 8mm M3 18-8 Stainless Steel Hex Drive Flat Head Screw | [McMaster][3] | 8 |
 | 8mm M3 316 Stainless Steel Button Head Hex Drive Screws | [McMaster][4] | 14 |
 | M2.5 hex nuts ||2|
-| 22mm M2.5 screw ||2|
+| 25mm M2.5 screw ||2|
 | Copper Tape, cut into rectangles 95mm x 26mm     |                          | 16  |
 
 
-[1]: https://www.amazon.com/HobbyPark-Aluminum-M3x25mm-Standoff-Female-Female/dp/B071K6GJYG/
+[1]: https://www.mcmaster.com/95947A018
 [2]: https://www.mcmaster.com/91294A128
 [3]: https://www.mcmaster.com/92125A128
 [4]: https://www.mcmaster.com/94500A222
