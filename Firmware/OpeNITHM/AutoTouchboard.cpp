@@ -132,9 +132,9 @@ void AutoTouchboard::calibrateKeys(bool forceCalibrate = false)
     for (int i = 0; i < 16; i++) 
     {
 #ifndef KEY_DIVIDERS
-        leds[j] = CRGB::Red; 
+        leds[i] = CRGB::Red; 
 #else
-        leds[j*2] = CRGB::Red;
+        leds[i*2] = CRGB::Red;
 #endif
       FastLED.show();
   
@@ -145,9 +145,9 @@ void AutoTouchboard::calibrateKeys(bool forceCalibrate = false)
       }
   
 #ifndef KEY_DIVIDERS
-        leds[j] = CRGB::Blue; 
+        leds[i] = CRGB::Blue; 
 #else
-        leds[j*2] = CRGB::Blue;
+        leds[i*2] = CRGB::Blue;
 #endif      
       FastLED.show();
       
@@ -157,9 +157,9 @@ void AutoTouchboard::calibrateKeys(bool forceCalibrate = false)
       }
   
 #ifndef KEY_DIVIDERS
-        leds[j] = CRGB::Green; 
+        leds[i] = CRGB::Green; 
 #else
-        leds[j*2] = CRGB::Green;
+        leds[i*2] = CRGB::Green;
 #endif
       FastLED.show();
   
@@ -176,9 +176,9 @@ void AutoTouchboard::calibrateKeys(bool forceCalibrate = false)
     for (int i = 0; i < 16; i++) 
     {
 #ifndef KEY_DIVIDERS
-        leds[j] = CRGB::Green; 
+        leds[i] = CRGB::Green; 
 #else
-        leds[j*2] = CRGB::Green;
+        leds[i*2] = CRGB::Green;
 #endif
       FastLED.show();
     }
